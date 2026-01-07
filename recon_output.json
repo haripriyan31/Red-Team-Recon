@@ -1,0 +1,98 @@
+[
+    {
+        "value": "raju.medipalli@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "narendher.j@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "bhikhoo.katrak@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "tcs.gmglobalnetops@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "satish.plpg@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "ganesh.patil@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "abhishek.gsharma@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "rishikesh.joshi@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "sunil.mahajan@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "corporate.noc@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "domain.academy@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "iris.support@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "global.marketing@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "jarugumilli.p@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "rajesh.tr@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    },
+    {
+        "value": "santosh.kalugade@tcs.com",
+        "type": "email",
+        "source": "crt.sh",
+        "confidence": 0.75
+    }
+]
